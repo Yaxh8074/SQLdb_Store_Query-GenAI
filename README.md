@@ -1,5 +1,5 @@
 
-# AtliQ Tees: Talk to a Database  
+# Tshirt Showroom: Talk to a Database  
 
 This is an end to end LLM project based on Google Gemini API Embeddings, Groq(llama-3.3-70b-versatile) and Langchain. We are building a system that can talk to MySQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
