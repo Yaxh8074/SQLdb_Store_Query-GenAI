@@ -31,7 +31,7 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/yaxh8074/langchain.git
+  git clone https://github.com/yaxh8074/SQLdb_Store_Query-GenAI.git
 ```
 2.Navigate to the project directory:
 
@@ -47,6 +47,7 @@ The system is intelligent enough to generate accurate queries for given question
 
 ```bash
   GEMINI_API_KEY="your_api_key_here"
+  GROQ_API_KEY = " "
 ```
 5. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
 
